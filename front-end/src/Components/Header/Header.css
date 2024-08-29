@@ -1,0 +1,12 @@
+@media only screen and (max-width: 767px) {
+  .header {
+    font-size: 0.8rem;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-evenly !important;
+    gap: 3rem !important;
+  }
+  .btn {
+    font-size: 0.5rem;
+  }
+}
